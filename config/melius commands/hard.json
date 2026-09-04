@@ -1,0 +1,6 @@
+{
+  "id": "hard",
+  "executes": [
+    "function player_commands:hard"
+  ]
+}

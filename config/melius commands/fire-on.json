@@ -1,0 +1,6 @@
+{
+  "id": "fire-on",
+  "executes": [
+    "function player_commands:fire_on"
+  ]
+}

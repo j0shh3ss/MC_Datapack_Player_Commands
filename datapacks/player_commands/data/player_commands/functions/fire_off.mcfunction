@@ -1,0 +1,3 @@
+schedule clear player_commands:fire_reset
+gamerule fire_spread_radius_around_player 0
+say Fire spread disabled. Peace to the world...

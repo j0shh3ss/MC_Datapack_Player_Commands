@@ -1,0 +1,6 @@
+{
+  "id": "easy",
+  "executes": [
+    "function player_commands:easy"
+  ]
+}

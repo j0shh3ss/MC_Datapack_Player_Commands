@@ -1,0 +1,3 @@
+schedule clear player_commands:difficulty_reset
+difficulty normal
+say Difficulty set, things are back to NORMAL lol...

@@ -1,0 +1,6 @@
+{
+  "id": "normal",
+  "executes": [
+    "function player_commands:normal"
+  ]
+}
